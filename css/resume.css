@@ -188,6 +188,16 @@ section.resume-section .resume-item .resume-date {
   color: #902626 !important;
 }
 
+.btn-primary {
+  background-color: #902626 !important;
+  border-color:#902626 !important ;
+}
+
+.projectHr {
+  margin:2rem 0 2rem 0;
+  border-color:#902626;
+}
+
 a {
   color: #902626;
 }
